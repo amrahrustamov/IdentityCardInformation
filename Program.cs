@@ -1,4 +1,6 @@
 using İdentityCardİnformation.Database;
+using İdentityCardİnformation.Services.Implementation;
+using İdentityCardİnformation.Services.Interface;
 using Microsoft.EntityFrameworkCore;
 
 namespace İdentityCardİnformation
@@ -19,6 +21,8 @@ namespace İdentityCardİnformation
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.
+                AddScoped<IUserService, UserService>();
 
             var app = builder.Build();
 
