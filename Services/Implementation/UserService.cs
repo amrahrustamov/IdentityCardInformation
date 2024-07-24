@@ -12,7 +12,7 @@ namespace İdentityCardİnformation.Services.Implementation
             _dbContext = dbContext;
   
         }
-        public bool CheckIdentityNumber(string identityNumber)
+        public bool CheckUserInDatabase(string identityNumber)
         {
             var user = _dbContext.users.FirstOrDefault(x => x.IdentityNumber == identityNumber);
             if (user == null) return true;

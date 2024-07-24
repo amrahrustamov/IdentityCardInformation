@@ -3,6 +3,7 @@ using İdentityCardİnformation.Database.Models;
 using İdentityCardİnformation.Services.Interface;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using static İdentityCardİnformation.Database.Models.UserViewModel;
 
 namespace İdentityCardİnformation.Controllers
 {
@@ -20,7 +21,7 @@ namespace İdentityCardİnformation.Controllers
         }
 
         [HttpPost("register")]
-        public async Task<IActionResult> Register([FromBody] User user)
+        public async Task<IActionResult> Register([FromBody] UserRegister user)
         {
             if (String.IsNullOrEmpty(user.FirstName))
             {
@@ -58,7 +59,7 @@ namespace İdentityCardİnformation.Controllers
             };
 
 
-            if(_userService.CheckIdentityNumber(userToRegister.IdentityNumber))
+            if(_userService.CheckUserInDatabase(userToRegister.IdentityNumber))
             {
                 _dbContext.users.Add(userToRegister);
                 await _dbContext.SaveChangesAsync();

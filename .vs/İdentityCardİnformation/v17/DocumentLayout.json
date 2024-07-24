@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{1707B669-60E8-4B36-9A19-87F5017D7328}|\u0130dentityCard\u0130nformation.csproj|solutionrelative:database\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1707B669-60E8-4B36-9A19-87F5017D7328}|\u0130dentityCard\u0130nformation.csproj|c:\\users\\amrah\\desktop\\identitycardinformation\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1707B669-60E8-4B36-9A19-87F5017D7328}|\u0130dentityCard\u0130nformation.csproj|solutionrelative:services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1707B669-60E8-4B36-9A19-87F5017D7328}|\u0130dentityCard\u0130nformation.csproj|c:\\users\\amrah\\desktop\\identitycardinformation\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1707B669-60E8-4B36-9A19-87F5017D7328}|\u0130dentityCard\u0130nformation.csproj|solutionrelative:services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1707B669-60E8-4B36-9A19-87F5017D7328}|\u0130dentityCard\u0130nformation.csproj|c:\\users\\amrah\\desktop\\identitycardinformation\\database\\userdatadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1707B669-60E8-4B36-9A19-87F5017D7328}|\u0130dentityCard\u0130nformation.csproj|solutionrelative:database\\userdatadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\Database\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Database\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\Database\\Models\\User.cs",
-              "RelativeToolTip": "Database\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:58:24.653Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -51,20 +46,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\Services\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\Services\\Interface\\IUserService.cs*",
+              "RelativeToolTip": "Services\\Interface\\IUserService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:07:39.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\Services\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\Services\\Implementation\\UserService.cs",
+              "RelativeToolTip": "Services\\Implementation\\UserService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:05:54.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\Database\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\Database\\Models\\User.cs",
+              "RelativeToolTip": "Database\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:58:24.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAxwE4AAABSAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwDQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T08:06:48.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UserDataDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\Database\\UserDataDbContext.cs",
               "RelativeDocumentMoniker": "Database\\UserDataDbContext.cs",
@@ -77,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
