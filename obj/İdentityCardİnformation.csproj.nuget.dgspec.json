@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Amrah\\Desktop\\İdentityCardİnformation\\İdentityCardİnformation.csproj": {}
+    "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\İdentityCardİnformation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Amrah\\Desktop\\İdentityCardİnformation\\İdentityCardİnformation.csproj": {
+    "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\İdentityCardİnformation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amrah\\Desktop\\İdentityCardİnformation\\İdentityCardİnformation.csproj",
+        "projectUniqueName": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\İdentityCardİnformation.csproj",
         "projectName": "İdentityCardİnformation",
-        "projectPath": "C:\\Users\\Amrah\\Desktop\\İdentityCardİnformation\\İdentityCardİnformation.csproj",
+        "projectPath": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\İdentityCardİnformation.csproj",
         "packagesPath": "C:\\Users\\Amrah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amrah\\Desktop\\İdentityCardİnformation\\obj\\",
+        "outputPath": "C:\\Users\\Amrah\\Desktop\\IdentityCardInformation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
